@@ -54,7 +54,30 @@ An ecological approach to e-learning</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(25).pdf" style="text-decoration:none;">A computer vision for animal ecology</a></li>                              
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(26).pdf" style="text-decoration:none;">Computer vision technology in agricultural
+automation — A review</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(27).pdf" style="text-decoration:none;">Machine Learning in Ecosystem Informatics and Sustainability</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(28).pdf" style="text-decoration:none;">Deep learning and computer vision will transform entomology</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(29).pdf" style="text-decoration:none;">Pattern Recognition for Ecological Science and Environmental Monitoring: An Initial Report</a></li>                              
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(30).pdf" style="text-decoration:none;">Towards Automated Visual Monitoring of Individual Gorillas in the Wild</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(31).pdf" style="text-decoration:none;">Automated image-based tracking and
+its application in ecology</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(32).pdf" style="text-decoration:none;">
+Automated identification of benthic epifauna with computer vision</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(33).pdf" style="text-decoration:none;">Computer Vision for Data Cataloging in Ecological Research</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(34).pdf" style="text-decoration:none;">Large-Scale Ecological Analyses of Animals in the Wild using Computer Vision</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(35).pdf" style="text-decoration:none;">Plant Species Identification Using Computer Vision Techniques: A Systematic Literature Review</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ecology-DL-Papers/blob/master/ecl(36).pdf" style="text-decoration:none;">Wildbook: Crowdsourcing, computer vision, and data science for conservation</a></li> 
+ 
 
 
 
